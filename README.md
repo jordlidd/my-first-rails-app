@@ -1,4 +1,4 @@
-# Creating my own Rails Web App
+# Creating a Rails Web App
 
 This is my attempt at creating my first own web application utilizing the Rails framework. Much of the methods I've used in development were derived from these four main resources:
 
